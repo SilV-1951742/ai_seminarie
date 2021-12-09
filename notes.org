@@ -3,6 +3,7 @@
 
 * MIND: Turing
 https://phil415.pbworks.com/f/TuringComputing.pdf
+https://www.csee.umbc.edu/courses/471/papers/turing.pdf
 
 -> Gepubliceerd in MIND: Psychology and Philosophy -> Turing was buiten CS geinteresseerd in filosofie (philosophy of mind?) -> Kijk naar hard question of consciousness (kort bespreken)
 
@@ -57,3 +58,17 @@ Verschillende technieken:
 Wat is een "child machine"? Algemene principes? Logical inference (definitions and propositions)? 
 
 "An important feature of a learning machine is that its teacher will often be very largely ignorant of quite what is going on inside, although he may still be able to some extent to predict his pupil's behaviour." -> Opaque process.
+
+
+* Passes Turing test posing as teenager?
+http://www.sci-news.com/othersciences/computerscience/science-eugene-goostman-supercomputer-program-turing-test-01978.html
+
+https://www.techdirt.com/articles/20140609/07284327524/no-supercomputer-did-not-pass-turing-test-first-time-everyone-should-know-better.shtml
+
+https://www.kurzweilai.net/mt-notes-on-the-announcement-of-chatbot-eugene-goostman-passing-the-turing-test
+
+"This "bot" is completely different from what Turing envisioned. When he referred to the 30% of judges fooled, he was thinking of a machine that was using MACHINE LEARNING, and a lot of storage, and hence was able to store patterns and information that it received over time and make coherent responses based on that information. However these "bots" just have a pattern matching algorithm that matches for content and then resolves a pre-defined response. Also the REAL turing test is not about "fooling 30% of people", it's about a computer being INDISTINGUISHABLE from a human in the game of imitation. Look up indistinguishability in computer science if you want to know the specifics of what it means in mathmatical terms."
+
+"being given the age or country of origin in order to forgive any weirdnesses just seems a bit like cheating."
+
+-> Dit zijn vooral chatbots -> niet wat Turing in gedachte had
