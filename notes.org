@@ -72,3 +72,32 @@ https://www.kurzweilai.net/mt-notes-on-the-announcement-of-chatbot-eugene-goostm
 "being given the age or country of origin in order to forgive any weirdnesses just seems a bit like cheating."
 
 -> Dit zijn vooral chatbots -> niet wat Turing in gedachte had
+
+
+* Marvin Minsky on AI: The Turing Test is a Joke!
+
+https://youtu.be/3PdxQbOvAlI
+
+Published in 2013.
+
+Ook: hoe werken neuronen? Hoe leren neuronen?
+
+Vroeg research (jaren 70-80) vooral gefinancieerd door defensie (naval department). Daarna zeiden (liberale) politiekers dat defensie zich niet moest bezighouden met research.
+
+Science fiction writers are the unsung heroes. (H.G. Wells als voorbeeld).
+
+Weinig progress in de afgelopen 10-15 jaar. Weinig promising students kunnen er werk in vinden. Current AI systems: Siri, Google Assistant, Watson etc. (Weten niet dat je dingen met een touw kan trekken, maar niet duwen).
+
+Critici vs aanhangers: Ligt eraan hoeveel slimme mensen eraan gaan werken. Er werken momenteel minder mensen aan dan 10 jaar geleden. Weinig werk in. Nu werken er 20 mensen aan Watson, vroeger 200. 50% minder.
+
+Is de Turing test goed? Is een grap. Een machine is intelligent als een observer zegt dat het door een mens wordt gedaan. Gemaakt door Turing om een machine te evalueren, niet om te beslissen of een machine intelligent is -> geen serieuze vraag.
+
+Advies voor student die AI wilt bestuderen. Genoeg opportuniteit om academisch te blijven. In de industrie: veel jobs om applicaties te ontwikkelen, niet eens basic research. -> Niet opgeven.
+
+Gary Marcus: pad naar AI is niet een resultaat van neuroscience, maar kruising van psychologie en neuroscience. (1960-70 cognitieve psychologie, niet veel meer ontwikkeling).
+
+Importance of theories: 1 miljard om een kaart van het zenuwstelsel te maken -> 98% dat het foute aspect te mappen -> 1 miljard om de huisvlieg te mappen ipv het foute te mappen. Kans op ontmoediging.
+
+Huidige manieren om het zenuwstelsel voor te stellen zijn niet veel vooruit op 50 jaar geleden, probalistic methods of learning.
+
+Vind de persoon die je denkt je het meest admired, ontmoet hem en kijk of je hem kan kopieren.
