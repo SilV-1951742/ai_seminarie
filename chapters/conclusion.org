@@ -65,6 +65,46 @@ Een alternatief is om systemen tegen gestandaardiseerde tegenstanders te laten s
 
 *Highlights en toekomst*:
 
+Een werkpunt is dat de evaluatie van AI scattered is over verschillende disciplines en er is veel duplicated effort. Hier een discipline op zich van maken, of een meer cross pollination tussen disciplines of centrale organisaties (NIST, DARPA, AAAI). NIST heeft hier vooral wat aan proberen te doen. Ook zijn er workshops georganiseerd voor AI evaluatie.
+
+** Naar ability-oriented evaluation
+
+Task-oriented/narrow/specific AI is niet voldoende voor sommige toepassingen. Denk bijvoorbeeld aan cognitieve taken, artificiele huisdieren, assistenten, etc. Deze zijn niet gemaakt voor specifieke taken maar een variateit. Dus het systeem heeft een redenatievermogen nodig, inductief leervermogen, verbaal vermogen, bewegingsmogelijkheden, etc.
+
+Als we terugkijken naar de definitie van Minsky moeten we kijken hoe een AI doet in een categorie: optimaal als het de beste is, super-strong human als het beter is dan alle mensen, super-human als het beter is dan de meeste mensen, par-human als het gelijk is met de meeste mensen en sub-human als het slechter is dan de meeste mensen. Dus AI is al veel vooruitgegaan. Super-human in de 19de eeuw voor berekeningen, in 1940 super-human in cryptografie, simpele spellen in de jaren 60, schaken in de jaren 90, speech recognition in de 2000, zeer veel gebieden in 2010s. Bij sommige toepassingen wordt ook de Turing scale gebruikt, waar par-human 0 is.
+
+Realiseer ons dat nog geen systeem al deze dingen tegelijk kan leren, dus het is nog task-specific. Soms is een big-switch approach wel nuttig, zoals een systeem dat kan detecteren welk spel het nu aan het spelen is.
+
+Nu gaan we bespreken hoe we een systeem per "ability" kunnen evalueren:
+
+*Cognitive ability*:
+
+Wat zijn cognitieve vaardigheden eigenlijk? Een eigenschap van indviduen dat hen toestaat om een tal van informatie-processing taken te doen. Deze vaardigheid is algemeen en slaat op een groot aantal taken. Bij general AI slaat deze vaardigheid op alle taken. Het grootste probleem is dat vaardigheden eigenschappen zijn en dus geconceptualiseerd en geidentificeerd moeten worden. Taken kunnen gezien worden als meetinstrumenten, maar vaardigheden zijn eerder constructies. In de psychologie zijn al een aantal cognitieve vaardigheden beschreven. In het handboek dat we gebruiken staan al een aantal gebieden: problem solving, use of knowledge, reasoning, learning, perception, natural language processing, etc..
+
+Ability-oriented evaluation staat nog aan een beginnend stadium. Eerst omdat dit een zeer complex is. Ten tweede omdat de "taken" niet duidelijk omschreven zijn. Het hangt af van de conceptualisatie (weer het belang van theorien) en dan moet men representatieve oefeningen vinden. Ten derde zijn er nog niet heel veel general AI systemen. Dus zover leek task-oriented evaluation voldoende. Maar hier is nu verandering in aan het komen.
+
+*Anthropocentrisme: psychometrics*:
+
+Ontwikkeld eind 19de eeuw en de eerste helft 20ste eeuw. Verschil maken tussen taken die specifieke vaardigheden nodig heeft tegenover algemene vaardigheden. Denk aan de "idiot savant" vs polymath (Narrow vs general AI). Kunnen we een IQ test aan een AI geven? Deze zijn al gestandaardiseerd, zijn abstract dus cultuur onafhankelijk. Er is heel wat kritiek op IQ tests. Men wilde Watson een IQ test laten doen met twee levels (om weer overfitting te voorkomen). Maar in 2003 had men al een klein programma geschreven (<1000 loc) dat goed scoorde op IQ tests, dus een IQ test is slecht en evalueert geen intelligentie. Dus zijn ze te antropocentrisch. Ondanks deze tekortkomingen zijn IQ tests toch populairder aan het worden voor AI evaluatie.
+
+Hoe evalueert men nu dieren? Via rewards, zoals reinforcement learning. Dit gebruikt men dan voor comparative cognitive study. Misschien kan men reward systems gebruiken om AI te evalueren. Hoe taken en abilities selecteren? Dit moet systematisch gebeuren. Sommigen zijn te makkelijk (memory), sommigen te moeilijk (orientatie, herkenning en interactie in de wereld).
+
+*Evaluatie met AIT*:
+
+Als intelligentie als informatieverwerking kan beschouwd worden dan is het logisch dat men naar een formele basis en framework voor intelligentie kan zoeken. Dit is gedaan met algorithmic information theory (AIT). AIT wordt gekarakteriseerd door het definieren van tests vanuit formele information-based principes. Dit staat in contrast met andere technieken waar het vooral voortvloeit vanuit trial-and-error of op andere arbitraire manieren. Dit kan ook gebruikt worden in combinatie met andere technieken.
+
+*Universal psychometrics*:
+
+Deze techniek probeert universele tests te bekomen, universeel als in elke biologisch of artificieel systeem. Omdat niet alles in dezelfde taal of iets dergelijks communiceert moet dit adaptief zijn.
+
+Een eerste voorbeeld is een omgeving die kan aanpassen aan de performance en snelheid van het systeem. Dit lijkt wat op difficulty-driven sampling, maar genereert de omgeving dus is adaptief. Deze omgeving kan gegenereerd worden vanuit AIT zoals boven vermeld.
+
+*Highlights and directions of the evaluation of general-purpose AI systems*:
+
+
+** Conclusion
+
+Summing up, AI requires an accurate, effective, non-anthropocentric, meaningful and computational way of evaluating its progress, by evaluating its artefacts. 
 
 * Notes
 
