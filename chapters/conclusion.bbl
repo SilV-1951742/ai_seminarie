@@ -19,6 +19,45 @@
 
 \refsection{0}
   \datalist[entry]{nty/global//global/global}
+    \entry{tt1}{article}{}
+      \name{author}{4}{}{%
+        {{hash=55fb879aa994a64d466b93760b8c03c4}{%
+           family={Alvarado},
+           familyi={A\bibinitperiod},
+           given={N.},
+           giveni={N\bibinitperiod}}}%
+        {{hash=7eea80f07d0f0f64d361850392622782}{%
+           family={Adams},
+           familyi={A\bibinitperiod},
+           given={S.S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=0d024bb707d158db6e8e466e5c8ba18c}{%
+           family={Burbeck},
+           familyi={B\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=1c6f64e2cd961987b031b84b5831db36}{%
+           family={Latta},
+           familyi={L\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3ff4708d4a529d372c114e1064ec4f8}
+      \strng{fullhash}{fd499ba6101df313c5f987bddfe26626}
+      \strng{bibnamehash}{fd499ba6101df313c5f987bddfe26626}
+      \strng{authorbibnamehash}{fd499ba6101df313c5f987bddfe26626}
+      \strng{authornamehash}{b3ff4708d4a529d372c114e1064ec4f8}
+      \strng{authorfullhash}{fd499ba6101df313c5f987bddfe26626}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings 2nd International Conference on Development and Learning. ICDL 2002}
+      \field{title}{Beyond the Turing test: Performance metrics for evaluating a computer simulation of the human mind}
+      \verb{doi}
+      \verb 10.1109/devlrn.2002.1011826
+      \endverb
+    \endentry
     \entry{orallo_2016}{article}{}
       \name{author}{1}{}{%
         {{hash=674ef4e6ac2beb73bf76aa4d36c4bd86}{%
@@ -46,6 +85,60 @@
       \range{pages}{51}
       \verb{doi}
       \verb 10.1007/s10462-016-9505-7
+      \endverb
+    \endentry
+    \entry{tt3}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cc74c3e30b5eec457c511184aa21ab4e}{%
+           family={Hingston},
+           familyi={H\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{cc74c3e30b5eec457c511184aa21ab4e}
+      \strng{fullhash}{cc74c3e30b5eec457c511184aa21ab4e}
+      \strng{bibnamehash}{cc74c3e30b5eec457c511184aa21ab4e}
+      \strng{authorbibnamehash}{cc74c3e30b5eec457c511184aa21ab4e}
+      \strng{authornamehash}{cc74c3e30b5eec457c511184aa21ab4e}
+      \strng{authorfullhash}{cc74c3e30b5eec457c511184aa21ab4e}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 2010 IEEE Conference on Computational Intelligence and Games}
+      \field{title}{A new design for a Turing test for Bots}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.1109/itw.2010.5593336
+      \endverb
+    \endentry
+    \entry{tt2}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3c9f49550058e604a45cec83ccd95dd6}{%
+           family={Schweizer},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{3c9f49550058e604a45cec83ccd95dd6}
+      \strng{fullhash}{3c9f49550058e604a45cec83ccd95dd6}
+      \strng{bibnamehash}{3c9f49550058e604a45cec83ccd95dd6}
+      \strng{authorbibnamehash}{3c9f49550058e604a45cec83ccd95dd6}
+      \strng{authornamehash}{3c9f49550058e604a45cec83ccd95dd6}
+      \strng{authorfullhash}{3c9f49550058e604a45cec83ccd95dd6}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Minds and Machines}
+      \field{number}{2}
+      \field{title}{The Truly Total Turing Test}
+      \field{volume}{8}
+      \field{year}{1998}
+      \field{pages}{263\bibrangedash 272}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1023/a:1008229619541
       \endverb
     \endentry
   \enddatalist

@@ -46,7 +46,13 @@ Een combinatie van de drie kan ook. Common-sense reasoning kan door alle drie ge
 
 *Human Discrimination*:
 
-De Turing Test was bedoeld als een filosofisch instrument om tegen de contra argument van machine intelligence tegen te gaan, dus nooit bedoelt als een echte test. Het is een test die de menselijkheid test, niet intelligentie. Dit betekent niet dat we menselijke oordeel uit testen moeten halen. Er zijn varianten die wel nuttig zijn. (Total Turing tests (Schweizer 1998), Visual Turing tests including sensory information, Toddler Turing tests (Alvarado et al. 2002), robotic interfaces, virtual worlds, etc. (Mueller and Minnery 2008; Hingston 2010).) Deze zijn nuttig om chatbots, personal assistant, videogames etc te testen. Als in: zijn ze geloofwaardig?
+De Turing Test was bedoeld als een filosofisch instrument om tegen de contra argument van machine intelligence tegen te gaan, dus nooit bedoelt als een echte test. Het is een test die de menselijkheid test, niet intelligentie. Dit betekent niet dat we menselijke oordeel uit testen moeten halen. Er zijn varianten die wel nuttig zijn. (Total Turing tests (Schweizer 1998), Visual Turing tests including sensory information, Toddler Turing tests (Alvarado et al. 2002), robotic interfaces, virtual worlds, etc. (Mueller and Minnery 2008; Hingston 2010).)
+
+- Truly Total Turing Test: Grootste argument tegen de TT is dat niet enkel het gedrag ertoe doet, maar hoe het gedrag gegenereerd wordt, intelligentie is niet enkel performatief. Ook teveel nadruk op anonimiteit in de originele TT. Dus een Total Turing Test (TTT) waarbij het systeem de volledige menselijke activiteit kan naboots, dus er is een artificieel lichaam nodig. Maar dit is nog niet definitief, het kan nog nagebootst worden, kan enkel functioneren in een "toy world" door de designers van de test gemaakt. Dus nog niet echt "natuurlijke intelligentie". Zoals ons moet er een lang evolutionar criteria zijn. Wij zijn ook geevolueerd van rauwe omgevingsinputs naar rudimentaire sociale interactie en tool use naar agricultuur, kunst, wiskunde etc gegaan. Dit moet een AI ook kunnen. Dit is dan de Truly Total Turing Test (TTTT). Dit is niet voor individuele cognitieve systemen, maar voor om de capaciteit van een cognitieve architectuur. Dus een "samenleving", niet een token moet dit kunnen. Anders zouden zo goed als alle mensen ook de TTTT failen. Dus intelligentie is niet vraag van individuele samples, maar hoe dit gedrag wordt geproduceerd.
+- Toddler Turing test: Deze test test of een systeem bepaalde essentiele, eerst vereiste cognitieve vaardigheden heeft. Hiervoor moet met men fundamentele vaardigheden identificeren die een systeem niet kan simuleren. Hoe wordt dit getest? Eerst, veranderingen in de interne parameters duiden op een verandering in mentale status. Ten tweede gebruikt met paradigma's uit de psychologie. Onobserveerbare cognitieve processen kan met afleiden uit kwantificeerbaar gedrag. Deze tests focussen zich op drie gebieden: associatief leren, sociale cognitie en taalverwerving.
+- Turing Test voor Bots: Kan een echte AI bot spelers ervan overtuigen dat ze tegen een mens spelen? Het doel hiervan is dus daadwerkelijk om enkel de speler te overtuigen, hier is een echte Turing Test dus wel nuttig. Zie de BotPrize, waar een jury moet zeggen welke speler de mens was. Hier is het nuttig om evaluatiemethodes natuurlijker te maken door ze integreren in het spel zelf. (Men gebruikt unreal tournament 4) Er is een speciaal wapen dat enkel kan gebruikt worden als de speler/jurylid weet of hij tegen een bot of mens speelt. De speler krijgt punten wanneer hij een bot raakt en verliest wanneer het een mens is.
+
+Deze zijn nuttig om chatbots, personal assistant, videogames etc te testen. Als in: zijn ze geloofwaardig?
 
 *Problem benchmarks*:
 
@@ -55,7 +61,7 @@ Als de problemset klein en/of bekend is kan er een grote switch in het systeem g
 - Information-driven sampling: Via clustering zo een divers mogelijk aantal problemen samplen via similarity.
 - Difficulty-driven sampling: Moeilijke problemen samplen (via tijd nodig of error).
 
-Beide manieren kunne adaptief gemaakt worden.
+Beide manieren kunnen adaptief gemaakt worden.
 
 *Peer confrontation*:
 
@@ -114,5 +120,11 @@ https://sci-hub.mksa.top/10.1007/s10462-016-9505-7
 "various video game platforms for AI evaluation" -> https://ojs.aaai.org//index.php/aimagazine/article/view/2748
 
 Measuring progress: https://www.eff.org/ai/metrics
+
+\cite{tt1}
+
+\cite{tt2}
+
+\cite{tt3}
 
 \printbibliography
